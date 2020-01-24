@@ -1,0 +1,360 @@
+/* Medioa Query fon Mobile Devices */
+@media screen and (max-width: 500px){
+	body{
+		width: 100%;
+	}
+	.navbar-light .navbar-brand {
+	    display: block;
+	    margin: 0px auto;
+	}	
+	.navbar-light .navbar-toggler {;
+	    background-color: #f8f9fade;
+	    padding: 2px 10px;
+	    margin-top: 14px;
+	}
+	.navbar-toggler {
+	    font-size: 20px;
+	    border: 0px solid transparent;
+	    border-radius: 6px;
+	}
+	.navbar-light .navbar-nav .nav-link {
+	    color: #000;
+	    padding: 7px 25px;
+	    background-color: #ddd;
+	}
+	.banner-section h2 {
+		color: #d4d4d4;
+	    font-weight: 500;
+	    font-size: 30px;
+	    width: 70%;
+	    display: block;
+	    margin: 0px auto;
+	    padding-top: 135px;
+	}
+	.banner-section p {
+	    color: #d2d2d2;
+	    font-weight: 400;
+	    width: 97%;
+	    display: block;
+	    margin: -22px auto 2px;
+	    font-size: 15px;
+	}
+	.banner-section button {
+	    margin: 20px 0px 200px;
+	}
+
+	/* Laptop Section */
+	.laptop-section h2 {
+	    margin-top: 60px;
+	    width: 95%;
+	}
+	.laptop-section p {
+	    width: 95%;
+	}
+	.laptop-section img {
+	    margin: 65px auto;
+	}
+	.laptop-section .laptop-border {
+   		margin-right: 350px;
+	}
+
+	/* Services Section */
+	.services-section {
+	    padding: 60px 0px;
+	}
+	.services-section .s-border{
+		margin: 15px 180px;
+	}
+	.services-section p {
+	    width: 90%;
+		margin-bottom: 0px;
+	}
+	.services-section img {
+	    margin-bottom: 10px;
+	    margin-top: 35px;
+	}
+
+	/* Price Section */
+	.price-section {
+	    padding: 60px 0px;
+	}
+	.price-section .p-border{
+	    margin: 15px 170px;
+	}
+	.price-section .p-title p {
+	    margin: 0px auto;
+	    width: 85%;
+	    margin-bottom: 30px;
+	}
+	.card {
+	    width: 80%;
+	    margin: 0px auto 25px;
+	}
+
+	/* More Section */
+	.more-section img {
+	    display: block;
+	    margin: 22px auto 0px;
+	}
+	.more-section .col-md-3 {
+	    text-align: center;
+	}
+
+	/* Join Section */
+	.join-section h2 {
+		text-align: center;
+	    padding: 40px 20px 0px;
+	    font-size: 18px;
+	    margin: 0px;
+	}
+	.join-section button {
+	    margin: 20px 0px 40px;
+	}
+
+	/* Update Section */
+	.update-section {
+    	padding: 60px 0px;
+	}
+	.update-section .u-border{
+	    margin: 15px 150px;
+	}
+	.update-section .col-md-4 p {
+	    font-size: 14px;
+	    width: 90%;
+	    margin: 0px 6px 30px 15px;
+	}
+	.update-section .show-more h1 {
+	    margin-top: 22px;
+	}
+
+	/* Mache Section */
+	.mache-section .m-btn{
+	    margin: 15px 150px;
+	}
+	.mache-section p {
+	    width: 93%;
+	}
+
+	/* Share Section */
+	.share-section {
+	    padding: 70px 0px;
+	}
+	.share-section img {
+	    display: block;
+	    margin: 0px auto;
+	}
+	.share-section h2 {
+	    width: 85%;
+	    display: block;
+	    margin: 25px auto 0px;
+	}
+	.share-section .col-md-6 .s-border {
+	    margin: 20px 170px;
+	}
+	.share-section p {
+	    font-size: 15px;
+	    width: 88%;
+	    display: block;
+	    margin: 0px auto;
+	}
+	.share-section button {
+	    display: block;
+	    margin: 25px auto 0px;
+	}
+
+	/* Footer Section */
+	footer .col-md-5 p {
+	    padding: 25px 0px 0px; 
+	    text-align: center;
+	}
+	footer .col-md-7 {
+	    padding: 0px;
+	    margin: 0px; 
+	    text-align: center;
+	}
+	footer .col-md-7 p {
+	    padding: 12px 0px 25px; 
+	    text-align: center;
+	}
+}
+
+
+/* Media Query for Tables Devices */
+@media (min-width: 501px) and (max-width: 768px){
+	body{
+		width: 100%;
+	}
+	.navbar-light .navbar-toggler {;
+	    background-color: #f8f9fade;
+	    padding: 2px 10px;
+	    margin-top: 14px;
+	}
+	.navbar-toggler {
+	    font-size: 20px;
+	    border: 0px solid transparent;
+	    border-radius: 6px;
+	}
+	.navbar-light .navbar-nav .nav-link {
+	    color: #000;
+	    padding: 7px 25px;
+	    background-color: #ddd;
+	}
+	.banner-section h2 {
+		color: #d4d4d4;
+	    font-weight: 500;
+	    font-size: 30px;
+	    width: 70%;
+	    display: block;
+	    margin: 0px auto;
+	    padding-top: 135px;
+	}
+	.banner-section p {
+	    color: #d2d2d2;
+	    font-weight: 400;
+	    width: 97%;
+	    display: block;
+	    margin: -22px auto 2px;
+	    font-size: 15px;
+	}
+	.banner-section button {
+	    margin: 20px 0px 200px;
+	}
+
+	/* Laptop Section */
+	.laptop-section h2 {
+	    margin-top: 60px;
+	    width: 95%;
+	}
+	.laptop-section p {
+	    width: 95%;
+	}
+	.laptop-section img {
+	    margin: 65px auto;
+	}
+	.laptop-section .laptop-border {
+   		margin-right: 350px;
+	}
+
+	/* Services Section */
+	.services-section {
+	    padding: 60px 0px;
+	}
+	.services-section .s-border{
+		margin: 15px 180px;
+	}
+	.services-section p {
+	    width: 90%;
+		margin-bottom: 0px;
+	}
+	.services-section img {
+	    margin-bottom: 10px;
+	    margin-top: 35px;
+	}
+
+	/* Slider Section */
+	.slider-section .carousel-item p{
+
+	}
+
+	/* Price Section */
+	.price-section {
+	    padding: 60px 0px;
+	}
+	.price-section .p-border{
+	    margin: 15px 170px;
+	}
+	.price-section .p-title p {
+	    margin: 0px auto;
+	    width: 85%;
+	    margin-bottom: 30px;
+	}
+	.card {
+	    width: 80%;
+	    margin: 0px auto 25px;
+	}
+
+	/* More Section */
+	.more-section img {
+	    display: block;
+	    margin: 22px auto 0px;
+	}
+	.more-section .col-md-3 {
+	    text-align: center;
+	}
+
+	/* Join Section */
+	.join-section h2 {
+		text-align: center;
+	    padding: 40px 20px 0px;
+	    font-size: 18px;
+	    margin: 0px;
+	}
+	.join-section button {
+	    margin: 20px 0px 40px;
+	}
+
+	/* Update Section */
+	.update-section {
+    	padding: 60px 0px;
+	}
+	.update-section .u-border{
+	    margin: 15px 150px;
+	}
+	.update-section .col-md-4 p {
+	    font-size: 14px;
+	    width: 90%;
+	    margin: 0px 6px 30px 15px;
+	}
+	.update-section .show-more h1 {
+	    margin-top: 22px;
+	}
+
+	/* Mache Section */
+	.mache-section .m-btn{
+	    margin: 15px 150px;
+	}
+	.mache-section p {
+	    width: 93%;
+	}
+
+	/* Share Section */
+	.share-section {
+	    padding: 70px 0px;
+	}
+	.share-section img {
+	    display: block;
+	    margin: 0px auto;
+	}
+	.share-section h2 {
+	    width: 85%;
+	    display: block;
+	    margin: 25px auto 0px;
+	}
+	.share-section .col-md-6 .s-border {
+	    margin: 20px 170px;
+	}
+	.share-section p {
+	    font-size: 15px;
+	    width: 88%;
+	    display: block;
+	    margin: 0px auto;
+	}
+	.share-section button {
+	    display: block;
+	    margin: 25px auto 0px;
+	}
+
+	/* Footer Section */
+	footer .col-md-5 p {
+	    margin-top: 18px;
+	    font-size: 15px;
+	}
+	footer .col-md-7 p{
+    text-align: right;
+    margin-top: -65px;
+    font-size: 15px;
+	}
+	footer .col-md-7 {
+    	padding: 0px;
+	}
+}
